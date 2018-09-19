@@ -1,0 +1,15 @@
+{
+  "name": "epubjs-reader",
+  "version": "0.3.0",
+  "description": "ePub.js Reader",
+  "main": "reader/js/reader.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "fchasen@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "iota.lib.js": "latest",
+    "btoa": "latest"
+  }
+}
